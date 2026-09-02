@@ -111,6 +111,12 @@
         >> inside the gitRepo as well Live URL will add automatically.
 
 
+!! how to push the code again in git hub !! 
+    >> 1. git add . 
+    >> 2. git commit -m "write it down whats the change u make"
+    >> 3. git push
+
+
 
     https://carafashionhubbygaganbaghel.vercel.app/assets/home-page/Hero/blob.png
 
