@@ -94,10 +94,21 @@
     4. open the project in the vs code & follow some steps
         >> 1. git init
         >> 2. git add .
+        >> 3. git commit -m  "uploading the entire codebase"
+        >> 4. git branch -M main
+        >> 5. git remote add origin your_project_URL
+        >> 6. git push -u origin main
 
 
-
-
+!! how to deploy the project in vercel from scratch !!
+    1. login in the vercel with github 
+    2. click on the add new 
+    3. select the project 
+    4. import the git repo 
+    5. click on deploy
+    6. continue with Dashboard 
+        >> in Dashboard we have URL 
+        >> inside the gitRepo as well Live URL will add automatically.
 
 
 
